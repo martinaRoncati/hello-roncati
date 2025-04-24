@@ -9,5 +9,8 @@ public class Hello
         {
             System.out.println("martina");
         }
+
+        //stampa la mia data di nascita
+        System.out.println("13/08/2007");
     }
 }
