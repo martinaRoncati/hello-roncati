@@ -9,11 +9,5 @@ public class Hello
         {
             System.out.println("martina");
         }
-
-        //stampo la mia data di nascita
-        System.out.println("13/08/2007");
-
-        //stampo la squadra
-        System.out.println("forza juve!");
     }
 }
