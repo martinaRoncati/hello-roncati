@@ -12,5 +12,8 @@ public class Hello
 
         //stampo la mia data di nascita
         System.out.println("13/08/2007");
+
+        //stampo la mia squadra
+        System.out.println("forza juve");
     }
 }
