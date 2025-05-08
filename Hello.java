@@ -12,5 +12,14 @@ public class Hello
 
         //stampa la mia data di nascita
         System.out.println("13/08/2007");
+
+        //dichiaro array statico
+        char[]lettere = {'m', 'a', 'r', 't', 'i', 'n', 'a'};
+        
+        //stampo array
+        for (int i = 0; i < lettere.length; i++)
+        {
+            System.out.println(lettere[i]);
+        }
     }
 }
