@@ -15,5 +15,10 @@ public class Hello
 
         //stampo la mia squadra
         System.out.println("forza juve");
+
+        //stampo la mia citta
+        System.out.println("napoli");
+
+        System.out.println(" Barabino Nicolo' è stato qui forza juve ");
     }
 }
